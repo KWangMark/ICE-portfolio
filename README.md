@@ -12,4 +12,4 @@ This Portfloio includes 5 Individual Coding Exercise and datasets
 [ICE 4 data(difficulty)](https://github.com/KWangMark/ICE-portfolio/blob/877d42febbd5de4af108a7787685c5a7bb0c2bce/ICE%204%20difficulty.csv)  
 [ICE 4 data(interest)](https://github.com/KWangMark/ICE-portfolio/blob/877d42febbd5de4af108a7787685c5a7bb0c2bce/ICE%204%20interest.csv)  
 Note: Some files are large, please refresh the page then it is hard to render.  
-There is no dataset in ICE 1 and ICE 5. There are two dataset in ICE 3 but one can not be uploaded due to the large size, but the dataset is store locally and safely.
+There is no dataset in ICE 1 and ICE 5. There are two datasets in ICE 3 but one can not be uploaded due to the large size, but the dataset is store locally and safely.
