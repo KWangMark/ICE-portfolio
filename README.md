@@ -6,7 +6,7 @@ This Portfloio includes 5 Individual Coding Exercise and datasets
 [ICE 3](https://github.com/KWangMark/ICE-portfolio/blob/c040839da68c75d360d1483200544b9304aec7ae/ICE%203%20.ipynb)  
 [ICE 4](https://github.com/KWangMark/ICE-portfolio/blob/c040839da68c75d360d1483200544b9304aec7ae/ICE%204.ipynb)   
 [ICE 5](https://github.com/KWangMark/ICE-portfolio/blob/c040839da68c75d360d1483200544b9304aec7ae/ICE5.ipynb)   
-- Dataset: 
+- Dataset:   
 [ICE 2 data](https://github.com/KWangMark/ICE-portfolio/blob/877d42febbd5de4af108a7787685c5a7bb0c2bce/ICE2_data_eval.csv)  
 [ICE 3 data](https://github.com/KWangMark/ICE-portfolio/blob/877d42febbd5de4af108a7787685c5a7bb0c2bce/ICE%203%20data%20ct.csv)  
 [ICE 4 data(difficulty)](https://github.com/KWangMark/ICE-portfolio/blob/877d42febbd5de4af108a7787685c5a7bb0c2bce/ICE%204%20difficulty.csv)  
